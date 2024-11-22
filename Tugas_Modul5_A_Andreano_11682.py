@@ -6,7 +6,7 @@ import os
 
 # Definisikan jalur model
 
-model_path = r'C:\Tugas5_A_11682\best_model_tf.h5'
+model_path = r'best_model_tf.h5'
 
 # Muat model
 if os.path.exists(model_path):
